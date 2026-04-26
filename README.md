@@ -1,10 +1,10 @@
-# 🗄️ Company Management System Database (SQL)
+#  Company Management System Database (SQL)
 
 A structured SQL project that simulates a **Company Management System**, including employees, departments, projects, and business operations.
 
 ---
 
-## 🎯 Overview
+##  Overview
 
 This project represents a real-world company database system designed to:
 
@@ -15,7 +15,7 @@ This project represents a real-world company database system designed to:
 
 ---
 
-## 🗺️ ERD Diagram
+##  ERD Diagram
 
 [![ERD.png](https://i.postimg.cc/C1KGDZ99/ERD.png)](https://postimg.cc/1gLV1zmK)
 
